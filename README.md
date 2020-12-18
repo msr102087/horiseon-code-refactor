@@ -28,3 +28,9 @@ This project was to increase the accessibility for Horiseon Social Services and 
 - Create a Horiseon document folder
 - Commit changes to repository
 - Deploy changes to repository
+
+## Site Preview
+
+When deployed, the Horiseon Social Services site should resemble the preview below
+
+![Horiseon-Web-Preview](assets/images/Horiseon-Web-Preview.jpg)
