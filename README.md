@@ -1,7 +1,7 @@
 
 # Horiseon Social Services Project
 
-This submission is a code refractor project to enhance the the accessibility of the Horiseon Social Services website.  
+This submission is a code refactor project to enhance the the accessibility of the Horiseon Social Services website.  
 
 ## Motivation
 
