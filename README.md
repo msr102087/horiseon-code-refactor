@@ -34,3 +34,5 @@ This project was to increase the accessibility for Horiseon Social Services and 
 When deployed, the Horiseon Social Services site should resemble the preview below
 
 ![Horiseon-Web-Preview](assets/images/Horiseon-Web-Preview.jpg)
+
+Follow this link to the site:  https://msr102087.github.io/horiseon-code-refactor/
